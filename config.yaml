@@ -1,4 +1,4 @@
-relativeURLs: true
+relativeURLs = "true"
 languageCode: en-us
 defaultContentLanguage: en-us
 title: Frédéric Silvestre's Blog
