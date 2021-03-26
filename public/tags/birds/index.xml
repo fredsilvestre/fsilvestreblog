@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Birds on Frédéric Silvestre&#39;s Blog</title>
+    <link>https://example.org/tags/birds/</link>
+    <description>Recent content in Birds on Frédéric Silvestre&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/birds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Davis wildlife, California</title>
+      <link>https://example.org/2020/08/index.en-us/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2020/08/index.en-us/</guid>
+      <description>During a 6 months stay in Davis, California, I had the opportunity to learn the local fauna and to make a portfolio of animals I could photograph. This can be used as a guide to recognize most common species of this area.</description>
+    </item>
+    
+  </channel>
+</rss>

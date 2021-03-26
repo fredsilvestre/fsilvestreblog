@@ -1,0 +1,71 @@
+---
+title: Davis wildlife, California
+author: Frédéric Silvestre
+date: '2020-08-31'
+slug: index.en-us
+categories:
+  - Nature
+  - Photography
+tags:
+  - Wildlife
+  - California
+  - Davis
+  - Birds
+keywords:
+  - tech
+clearReading: true
+coverSize: partial
+comments: true
+thumbnailImage: "/post/2020-08-31-davis-wildlife-california/index.en-us_files/IMG_2269_DxO.jpg"
+thumbnailImagePosition: left
+coverImage: "/post/2020-08-31-davis-wildlife-california/index.en-us_files/IMG_2269_DxO.jpg"
+showTags: true
+showSocial: true
+draft: false
+summary: "During a 6 months stay in Davis, California, I had the opportunity to learn the local fauna and to make a portfolio of animals I could photograph. This can be used as a guide to recognize most common species of this area."
+---
+
+*Author: Frédéric Silvestre*
+
+This portfolio has been created during the shelter in place of spring 2020, due to the coronavirus outbreak. As we were stuck during more than 2 months in Davis, with no option to visit California, I decided to create a portfolio with the most common wild animals I could photograph. Armed with my faithful Canon 100-400mm II and my 80D or 6D (and lately I changed my 6D for a second hand 5DIII), I wandered at different places, mainly West Davis, North Davis, the arboretum, Putah Creek riparian reserve, and Yolo Bypass Wildlife Area. It shows animals among the most commonly encountered in this wonderful city of Davis, California.  
+&nbsp;
+
+![Link to airtable: https://airtable.com/universe/expRKG6ijP3H0kloe/davis-wildlife-california](/post/2020-08-31-davis-wildlife-california/index.en-us_files/airtablelink.png)
+
+Of course, many other species can be found but I put only the ones I could photograph decently. If you visit Davis, for the University or for other reasons, you can use this portfolio as a general guide. Davis is a wonderful city of about 60 000 inhabitants, located in North California, between Sacramento and San Francisco, on the I80. It's easy access and it's a great place to stay and to study, thanks to the University of California campus that attracts thousands of students worldwide. It's full of green areas and has a few water ponds, ideal for bird watching.  
+&nbsp;
+
+![Davis, California](/post/2020-08-31-davis-wildlife-california/index.en-us_files/Capture d’ecran 2020-05-24 a 17.49.47.png)
+
+The first part of this portfolio concerns birds. According to the participative website [ebird.org](https://ebird.org/region/US-CA-113?yr=BIGDAY_2020a&m=), we can find more than 300 bird species in Yolo County, including Davis. This is more than what I can recognize, and even more than what I can take picture of. I warmly recommend this website to help you to figure out what bird species you encounter. Other tools I'm using are [localwiki Davis](https://localwiki.org/davis/Birds_and_Bird_Watching) and [inaturalist](https://www.inaturalist.org/) for all species, including insects or spiders. I also use the android application iBird Pro on the field, which has a nice function to filter the species located nearby your GPS position. But as I'm not a very good bird watcher, feel free to tell me any ID mistake (for example I'm struggling with all little yellowish birds).  
+&nbsp;
+
+![Anna's hummingbird](/post/2020-08-31-davis-wildlife-california/index.en-us_files/Davis 13 March 202044Davis birds-sharpen-stabilize.jpg)
+
+For now, I could identify and photograph 52 different bird species belonging to 29 families. As a biologist, I'm very strict with scientific names and with classification. I do believe that the family level is the best to remember. It is precise enough but also broad enough to compare species in different locations. I highly advise my students during field trips to focus on families rather than species.  
+&nbsp;
+
+![Red-winged blackbird](/post/2020-08-31-davis-wildlife-california/index.en-us_files/IMG_1328_DxO.jpg)
+
+Most common birds in Davis (at least during the spring 2020) are the California scrub jay, the American crow, the Anna's hummingbird, red-winged blackbird, the Canada goose, the wood duck, and the mallard. The three latter being found near water ponds. If you go out, you're almost sure to encounter them. My favourite is the Western bluebird. It's not found everywhere but can be very common where you found them (at the arboretum for instance). Here is a portfolio of my best pictures, but you can find the full database on [airtable](https://airtable.com/universe/expRKG6ijP3H0kloe/davis-wildlife-california) (visualise it in the galley view to identify the pictures).  
+&nbsp;
+
+![Western bluebird](/post/2020-08-31-davis-wildlife-california/index.en-us_files/IMG_2269_DxO.jpg)
+
+Besides birds, that are obviously the most easy class to observe, you will directly be overwhelmed by the number of squirrels. There are mainly two groups of these cute mammals: the tree squirrels (most abundant like the fox squirrel) and the ground squirrels. If you spot a squirrel quickly climbing a tree, you are likely in front of a tree squirrel. The ground squirrel being mainly observed around crops and hiding in its den. Other very common mammals are the rabbits (mostly cottontail with its white tail) and the black-tailed jackrabbit with its oversized ears.  
+&nbsp;
+
+![Black-tailed jackrabbit](/post/2020-08-31-davis-wildlife-california/index.en-us_files/IMG_4866_DxO.jpg)
+
+Reptiles are not so common, and it was a surprise for me to encounter just few lizards (the western fence and the sagebrush), but abundant at some places. Regarding snakes, there are three harmless species that can be seen in Davis: the kingsnake, the garter snake and the gopher snake. The latter is very big and it simulates the noise of the rattle snake to fear its predators. But don't be scared and don't hurt them as they are totally harmless (more details on snakes in Davis can be found [here](https://localwiki.org/davis/Snakes)).  
+&nbsp;
+
+![California kingsnake](/post/2020-08-31-davis-wildlife-california/index.en-us_files/IMG_4996_DxO.jpg)
+
+
+Invertebrates are obviously numerous with plethora of insects. I didn't go into deep study of them, but the most common and easy to observe are the dragonflies and damselflies. They are beautiful and diverse and are mostly found around water ponds. On the contrary, butterflies are not so easy to observe but can also be abundant at some places. Lastly, I found such a beautiful little jumping spider, the bold jumping spider of the Salticidae family. They are so photogenic with the greenish fangs and the zebra pattern of the body.  
+&nbsp;
+
+![Bold jumping spider](/post/2020-08-31-davis-wildlife-california/index.en-us_files/IMG_1486_DxO.jpg){width="50%"}
+
+

@@ -1,0 +1,37 @@
+---
+title: "blog"
+author: "Me"
+date: "3/18/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(blogdown)
+library(knitr)
+serve_site()
+build_site()
+
+blogdown::new_post("Meeting the giants")
+```
+To add space after a paragraph (+ 2 space after the text):
+hjfjehfejhzfb  
+&nbsp;
+
+To add an image and center it:
+
+<p align="center">
+![caption](/post/2020-02-23-air-travel-with-a-baby-toddler/index.en-us_files/airtravelinfant6.jpg){width=50% height=50%} ![ ](/post/2020-02-23-air-travel-with-a-baby-toddler/index.en-us_files/airtravelinfant1.jpg){width=30% height=30%}
+</p>
+
+```{r,echo=FALSE,out.width="49%",out.height="20%",fig.cap="caption",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("/post/2020-02-23-air-travel-with-a-baby-toddler/index.en-us_files/airtravelinfant6.jpg","/post/2020-02-23-air-travel-with-a-baby-toddler/index.en-us_files/airtravelinfant1.jpg"))
+```
+
+```{r}
+knitr::include_graphics(path="/Users/fsilvestre/Dropbox/blogdown/tranquilpeak/static/post/2020-02-23-air-travel-with-a-baby-toddler/index.en-us_files/airtravelinfant6.jpg")
+```
+
