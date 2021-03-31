@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Black&amp;White on Frédéric Silvestre&#39;s Blog</title>
-    <link>https://example.org/tags/blackwhite/</link>
+    <link>https://fsilvestreblog.netlify.app/tags/blackwhite/</link>
     <description>Recent content in Black&amp;White on Frédéric Silvestre&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/blackwhite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fsilvestreblog.netlify.app/tags/blackwhite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On the tracks of Ansel Adams and the first conservation photographers</title>
-      <link>https://example.org/2021/03/index.en-us/</link>
+      <link>https://fsilvestreblog.netlify.app/2021/03/index.en-us/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2021/03/index.en-us/</guid>
+      <guid>https://fsilvestreblog.netlify.app/2021/03/index.en-us/</guid>
       <description>If we hear the name of Ansel Adams, several black and white images of Yosemite landscape come in our mind. Half Dome, El Capitan, Cathedral Rocks, the famous sight of Yosemite valley from Tunnel view, or the Jeffrey pine at Sentinel Dome photographed in 1940.</description>
     </item>
     

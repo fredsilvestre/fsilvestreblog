@@ -2,116 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Frédéric Silvestre&#39;s Blog</title>
-    <link>https://example.org/tags/</link>
+    <link>https://fsilvestreblog.netlify.app/tags/</link>
     <description>Recent content in Tags on Frédéric Silvestre&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fsilvestreblog.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ansel Adams</title>
-      <link>https://example.org/tags/ansel-adams/</link>
+      <link>https://fsilvestreblog.netlify.app/tags/ansel-adams/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/ansel-adams/</guid>
+      <guid>https://fsilvestreblog.netlify.app/tags/ansel-adams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Black&amp;White</title>
-      <link>https://example.org/tags/blackwhite/</link>
+      <link>https://fsilvestreblog.netlify.app/tags/blackwhite/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/blackwhite/</guid>
+      <guid>https://fsilvestreblog.netlify.app/tags/blackwhite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>California</title>
-      <link>https://example.org/tags/california/</link>
+      <link>https://fsilvestreblog.netlify.app/tags/california/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/california/</guid>
+      <guid>https://fsilvestreblog.netlify.app/tags/california/</guid>
       <description></description>
     </item>
     
     <item>
       <title>National Parks</title>
-      <link>https://example.org/tags/national-parks/</link>
+      <link>https://fsilvestreblog.netlify.app/tags/national-parks/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/national-parks/</guid>
+      <guid>https://fsilvestreblog.netlify.app/tags/national-parks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yosemite</title>
-      <link>https://example.org/tags/yosemite/</link>
+      <link>https://fsilvestreblog.netlify.app/tags/yosemite/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/yosemite/</guid>
+      <guid>https://fsilvestreblog.netlify.app/tags/yosemite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Birds</title>
-      <link>https://example.org/tags/birds/</link>
+      <link>https://fsilvestreblog.netlify.app/tags/birds/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/birds/</guid>
+      <guid>https://fsilvestreblog.netlify.app/tags/birds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Davis</title>
-      <link>https://example.org/tags/davis/</link>
+      <link>https://fsilvestreblog.netlify.app/tags/davis/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/davis/</guid>
+      <guid>https://fsilvestreblog.netlify.app/tags/davis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wildlife</title>
-      <link>https://example.org/tags/wildlife/</link>
+      <link>https://fsilvestreblog.netlify.app/tags/wildlife/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/wildlife/</guid>
+      <guid>https://fsilvestreblog.netlify.app/tags/wildlife/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sequoia</title>
-      <link>https://example.org/tags/sequoia/</link>
+      <link>https://fsilvestreblog.netlify.app/tags/sequoia/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/sequoia/</guid>
+      <guid>https://fsilvestreblog.netlify.app/tags/sequoia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>travel</title>
-      <link>https://example.org/tags/travel/</link>
+      <link>https://fsilvestreblog.netlify.app/tags/travel/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/travel/</guid>
+      <guid>https://fsilvestreblog.netlify.app/tags/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Family</title>
-      <link>https://example.org/tags/family/</link>
+      <link>https://fsilvestreblog.netlify.app/tags/family/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/family/</guid>
+      <guid>https://fsilvestreblog.netlify.app/tags/family/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photoshoot</title>
-      <link>https://example.org/tags/photoshoot/</link>
+      <link>https://fsilvestreblog.netlify.app/tags/photoshoot/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/photoshoot/</guid>
+      <guid>https://fsilvestreblog.netlify.app/tags/photoshoot/</guid>
       <description></description>
     </item>
     

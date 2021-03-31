@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Frédéric Silvestre&#39;s Blog</title>
-    <link>https://example.org/categories/</link>
+    <link>https://fsilvestreblog.netlify.app/categories/</link>
     <description>Recent content in Categories on Frédéric Silvestre&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fsilvestreblog.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nature</title>
-      <link>https://example.org/categories/nature/</link>
+      <link>https://fsilvestreblog.netlify.app/categories/nature/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/nature/</guid>
+      <guid>https://fsilvestreblog.netlify.app/categories/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>https://example.org/categories/photography/</link>
+      <link>https://fsilvestreblog.netlify.app/categories/photography/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/photography/</guid>
+      <guid>https://fsilvestreblog.netlify.app/categories/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>travel</title>
-      <link>https://example.org/categories/travel/</link>
+      <link>https://fsilvestreblog.netlify.app/categories/travel/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/travel/</guid>
+      <guid>https://fsilvestreblog.netlify.app/categories/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>story</title>
-      <link>https://example.org/categories/story/</link>
+      <link>https://fsilvestreblog.netlify.app/categories/story/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/story/</guid>
+      <guid>https://fsilvestreblog.netlify.app/categories/story/</guid>
       <description></description>
     </item>
     
     <item>
       <title>baby</title>
-      <link>https://example.org/categories/baby/</link>
+      <link>https://fsilvestreblog.netlify.app/categories/baby/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/baby/</guid>
+      <guid>https://fsilvestreblog.netlify.app/categories/baby/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tricks</title>
-      <link>https://example.org/categories/tricks/</link>
+      <link>https://fsilvestreblog.netlify.app/categories/tricks/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/tricks/</guid>
+      <guid>https://fsilvestreblog.netlify.app/categories/tricks/</guid>
       <description></description>
     </item>
     

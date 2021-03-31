@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Davis on Frédéric Silvestre&#39;s Blog</title>
-    <link>https://example.org/tags/davis/</link>
+    <link>https://fsilvestreblog.netlify.app/tags/davis/</link>
     <description>Recent content in Davis on Frédéric Silvestre&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/davis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fsilvestreblog.netlify.app/tags/davis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Davis wildlife, California</title>
-      <link>https://example.org/2020/08/index.en-us/</link>
+      <link>https://fsilvestreblog.netlify.app/2020/08/index.en-us/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2020/08/index.en-us/</guid>
+      <guid>https://fsilvestreblog.netlify.app/2020/08/index.en-us/</guid>
       <description>During a 6 months stay in Davis, California, I had the opportunity to learn the local fauna and to make a portfolio of animals I could photograph. This can be used as a guide to recognize most common species of this area.</description>
     </item>
     
     <item>
       <title>First week in Davis, California</title>
-      <link>https://example.org/2020/02/index.en-us/</link>
+      <link>https://fsilvestreblog.netlify.app/2020/02/index.en-us/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2020/02/index.en-us/</guid>
+      <guid>https://fsilvestreblog.netlify.app/2020/02/index.en-us/</guid>
       <description>After a long trip, we arrived at Davis, California, for a 6 months sabbatical leave to work at UC Davis. Our daughter Elina spent her second anniversary in this new environment.</description>
     </item>
     
