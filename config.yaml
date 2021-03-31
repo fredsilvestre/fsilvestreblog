@@ -1,4 +1,4 @@
-relativeURLs = "true"
+baseURL: https://fsilvestreblog.netlify.app/
 languageCode: en-us
 defaultContentLanguage: en-us
 title: Frédéric Silvestre's Blog
