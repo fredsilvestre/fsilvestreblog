@@ -1,6 +1,18 @@
 baseURL: https://fsilvestreblog.netlify.app/
 languageCode: en-us
 defaultContentLanguage: en-us
+defaultContentLanguageInSubdir: true
+languages:
+  en-us:
+    title: Frédéric Silvestre's Blog
+    languageName: English
+    languageFlag: 🇬🇧
+    weight: 10
+  fr:
+    title: Le blog de Frédéric Silvestre
+    languageName: Français
+    languageFlag: 🇫🇷
+    weight: 20
 title: Frédéric Silvestre's Blog
 theme: hugo-tranquilpeak-theme
 disqusShortname: hugo-tranquilpeak-theme
@@ -36,9 +48,9 @@ menu:
       pre: <i class="sidebar-button-icon fa fa-instagram"></i>
       url: https://www.instagram.com/fsilvestrephoto/
       weight: 2
-    - identifier: smugmug
+    - identifier: Smugmug
       name: Smugmug
-      pre: <i class="sidebar-button-icon fa fa-smugmug"></i>
+      pre: <i class="sidebar-button-icon fa fa-camera-retro"></i>
       url: https://fsilvestrephoto.smugmug.com/
       weight: 3
 
