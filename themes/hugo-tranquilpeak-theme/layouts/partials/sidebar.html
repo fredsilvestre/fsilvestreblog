@@ -21,4 +21,17 @@
       {{ partial "menu.html" (dict "menu" .Site.Menus.misc "root" $) }}
     </ul>
   </div>
+  
+  {{ if .Site.IsMultiLingual }}
+	{{ range .Site.Languages }}
+	{{ if eq . $.Site.Language }}
+		<li><a href="#" class="active language">{{ .LanguageName }}</a></li>
+	{{ else }}
+		{{ range $.Translations }}
+		<li><a href="{{ .Permalink }}" class="">{{ .Language.LanguageName }}</a></li>
+		{{ end }}
+	{{ end }}
+	{{ end }}
+{{ end }}
+  
 </nav>
